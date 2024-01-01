@@ -9,6 +9,7 @@ Fogram is an Android application that serves as a social media platform, similar
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Configuration](#configuration)
+- [Version Information](#version-information)
 - [Running the Application](#running-the-application)
   - [Debugging](#debugging)
   - [Release Build](#release-build)
@@ -46,6 +47,16 @@ Fogram is an Android application that serves as a social media platform, similar
 ### Configuration
 
 Ensure you have the required API keys and configurations for Firebase services. Update the necessary files with your configurations.
+
+## Version Information
+
+- **Compile SDK Version:** 34
+- **Target SDK Version:** 34
+- **Minimum SDK Version:** 23
+- **Build Tools Version:** 34.0.0-rc2
+- **App Version Code:** 1
+- **App Version Name:** 1.0
+
 
 ## Running the Application
 
